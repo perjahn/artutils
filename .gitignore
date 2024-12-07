@@ -1,0 +1,30 @@
+.DS_Store
+*.sh
+*.json
+*.txt
+*.tar.gz
+obj
+bin
+run
+datafolder
+metadatafolder
+vendor
+artcheckimport/artcheckimport
+artchecksha/artchecksha
+artcopyuser/artcopyuser
+artemail/artemail
+artgen/artgen
+artgroupimport/artgroupimport
+artlayout/artlayout
+artpatterns/artpatterns
+artproperties/artproperties
+<<<<<<< HEAD
+=======
+artremoveredundant/artremoveredundant
+>>>>>>> d02feaf (1st)
+artrepos/artrepos
+artstorage/artstorage
+arttasks/arttasks
+artusers/artusers
+getartsize/getartsize
+ldapquery/ldapquery
