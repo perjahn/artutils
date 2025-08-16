@@ -1,6 +1,6 @@
 module ldapquery
 
-go 1.23.4
+go 1.25.0
 
 require github.com/go-ldap/ldap/v3 v3.4.13
 
