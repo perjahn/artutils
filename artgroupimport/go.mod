@@ -1,6 +1,6 @@
 module artgroupimport
 
-go 1.25.1
+go 1.25.4
 
 require github.com/go-ldap/ldap/v3 v3.4.13
 
