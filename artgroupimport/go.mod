@@ -1,6 +1,6 @@
 module artgroupimport
 
-go 1.25.1
+go 1.25.4
 
 require (
 	github.com/Azure/go-ntlmssp v0.0.0-20221128193559-754e69321358 // indirect
